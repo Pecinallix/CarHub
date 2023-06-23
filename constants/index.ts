@@ -72,7 +72,7 @@ export const fuels = [
 
 export const footerLinks = [
   {
-    title: 'About',
+    title: 'Sobre',
     links: [
       { title: 'Quem somos', url: '/' },
       { title: 'Seguradoras', url: '/' },
@@ -81,7 +81,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: 'Company',
+    title: 'Empresa',
     links: [
       { title: 'Eventos', url: '/' },
       { title: 'Blog', url: '/' },
@@ -90,7 +90,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: 'Socials',
+    title: 'Sociais',
     links: [
       { title: 'Discord', url: '/' },
       { title: 'Instagram', url: '/' },
